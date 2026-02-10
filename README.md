@@ -31,5 +31,5 @@
     - La idea del proyecto es desarrollar un sistema para una biblioteca que permita llevar el control de los libros, los lectores y los préstamos de manera organizada. El sistema estará dividido en varias partes, cada una encargada de una función específica, para que pueda funcionar de forma ordenada y permitir que varias personas lo usen al mismo tiempo sin generar conflictos. El objetivo principal es facilitar la administración de la biblioteca, asegurando que la información sobre los libros y los préstamos esté siempre actualizada y pueda consultarse desde un mismo sistema.
 
 - Marlon 
-    - 
+    - Desarrollar un sistema de chat corporativo en tiempo real para una organización con dos sedes, donde varios usuarios puedan comunicarse simultáneamente y recibir mensajes de forma inmediata. El sistema operará con dos servidores para garantizar disponibilidad y soportar más usuarios. Para mantener la conversación sincronizada entre sedes, se usará Redis con Pub/Sub, que permite que cualquier mensaje enviado desde una sede se replique automáticamente en la otra. Así se asegura una comunicación centralizada, rápida y consistente, con posibilidad de crecimiento si se agregan más servidores.
 
