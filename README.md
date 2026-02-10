@@ -15,7 +15,6 @@
     - *Rol* 
         - NA
 
-
 ### **Presentación de ideas**
 
 - Leonardo 
