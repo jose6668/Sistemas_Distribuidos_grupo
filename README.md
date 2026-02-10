@@ -1,4 +1,4 @@
-# Sistemas_Distribuídos_grupo
+# Sistemas_Distribuidos_grupo
 
 ## **Integrantes del proyecto** 
 
