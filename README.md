@@ -13,7 +13,7 @@
         - Frontend
 - Romero Trujillo Marlon David 
     - *Rol* 
-        - NA
+        - Product owner
 
 ### **Presentación de ideas**
 
