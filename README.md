@@ -4,13 +4,13 @@
 
 - Vargas Herrera Jose Leonardo 
     - *Rol* 
-        - NA
+        - Backend
 - Buitrago Murcia Jersson Fabián 
     - *Rol* 
         - QA
 - Tello Mendez Nicolas
     - *Rol* 
-        - NA
+        - Frontend
 - Romero Trujillo Marlon David 
     - *Rol* 
         - NA
